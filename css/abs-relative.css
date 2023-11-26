@@ -18,12 +18,14 @@
   position: relative;
   top: 0rem;
   left: 10rem;
+  z-index: 1;
 }
 .relative-2 {
   background-color: rgba(76, 0, 130, 0.492);
   position: relative;
   top: -5rem;
   left: 15rem;
+  z-index: 2;
 }
 .absolute {
   position: absolute;
